@@ -1,0 +1,31 @@
+{
+  "bot": {
+    "host": "localhost",
+    "port": 25565,
+    "username": "TRAE_Bot",
+    "auth": "offline",
+    "version": "1.20.4",
+    "viewDistance": "far",
+    "chatLengthLimit": 256
+  },
+  "mcp": {
+    "port": 3000,
+    "host": "0.0.0.0",
+    "screenshotDir": "./screenshots",
+    "screenshotInterval": 1000,
+    "enableRealtimeView": false
+  },
+  "auto": {
+    "autoEat": true,
+    "autoAttack": false,
+    "autoCollect": false,
+    "autoReconnect": true,
+    "reconnectDelay": 5000
+  },
+  "viewer": {
+    "port": 3001,
+    "firstPerson": true,
+    "width": 1920,
+    "height": 1080
+  }
+}
